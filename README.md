@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [link](https://github.com/adibaliga/order-summary)
+- Live Site URL: [link](https://awesome-goldwasser-547bd9.netlify.app/)
 
 ## My process
 
